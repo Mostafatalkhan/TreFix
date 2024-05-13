@@ -7,9 +7,11 @@ import 'package:treflix/screens/splash_screen.dart';
 
 void main() {
   //mosedwedwp
+
   // final video = VideoCubit();
   // video.GetVideoLink(id: 278, videoFor: VideoCubit().movieString);
   // auth.Login(email: 'mosa232@gmail.com', password: '123789');
+  // auth.Register(
   // auth.Register(
   //     name: 'mos',
   //     phone: '011186048153',
